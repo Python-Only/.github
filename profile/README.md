@@ -12,6 +12,10 @@ You can get hold of me on [Discord](https://discord.gg/aF4Uq4DxdJ)
 - / [PTB Client](https://discordapp.com/api/download/ptb?platform=win)
 - / [Developer Client](https://discordapp.com/api/download/development?platform=win)
 
+## Code Editer
+
+- / [Sublimetext](https://www.sublimetext.com/download)
+
 ## Online Video Courses
 
 - / [Python Course](https://www.youtube.com/playlist?list=PLPCRa1Fsv2WCRv1lY86dRz31xi0lw6Tll)
